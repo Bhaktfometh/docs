@@ -13,6 +13,8 @@ versions:
   ghec: '*'
 ---
 
+{% data reusables.dependency-submission.dependency-submission-api-beta %}
+
 ## About the {% data variables.dependency-submission-api.name %}
 
 {% data reusables.dependency-submission.about-dependency-submission %}
